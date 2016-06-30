@@ -4,7 +4,7 @@ using System.Collections;
 public class CameraRotation : MonoBehaviour {
 
     private Camera camera;
-    private float rotationSpeed = 2.0f;
+    private float rotationSpeed = 3.0f;
 
     // Use this for initialization
     void Start () {
