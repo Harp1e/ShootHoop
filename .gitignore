@@ -28,3 +28,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/AudioKit/music_comedy_quirky_fun_knockout.wav
+Assets/AudioKit/music_comedy_quirky_fun_knockout.wav.meta
